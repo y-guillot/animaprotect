@@ -1,0 +1,1 @@
+<a href="?page=accueil"><img src="ressources/images/template/logo.jpg"></a>
